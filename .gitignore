@@ -27,3 +27,8 @@ npm-debug.log.*
 *.css.d.ts
 *.sass.d.ts
 *.scss.d.ts
+
+# Exclude these files from versioning
+cache
+snapshot_blob.bin
+v8_context_snapshot.bin
